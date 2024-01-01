@@ -1,11 +1,11 @@
-tetris 作るよ！
+Mine Sweeper 作るよ！
 ===
 ...
 
-Create : 2023.09.23
+Create : 2024.01.01
 Author : shimanuki.takayoshi
 ...
 
 # Summary
-- 作成開始 2023.09.23
-# Tetris
+- 作成開始 2024.01.01
+# MineSweeper
